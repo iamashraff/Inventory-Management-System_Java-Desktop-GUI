@@ -28,3 +28,6 @@ Object Oriented Programming - Mini Project <br>
 ![alt text](https://i.imgur.com/4zyUoUk.png)
 ![alt text](https://i.imgur.com/Rx5x8vL.png)
 ![alt text](https://i.imgur.com/iKLXWB8.png)
+
+All data will be saved to C:\.
+Please copy Export.txt, Product.txt and Staff.txt to C:\.
