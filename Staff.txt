@@ -1,0 +1,11 @@
+1,123,MyFirstName,MyMiddleName,MyLastName,No 1,Building 2,Street 3,12345,Kuala Lumpur,WP,Administrator
+2,123,Muhamad,Ashraff,Othman,No 3,Bangunan 2,Jalan 3/1,12345,Seremban,Negeri Sembilan,Administrator
+3,123,testFname,testMname,testLname,testHouse,testBuilding,testStreet,12345,testCity,testState,Staff
+4,4141,Ashraff,M,A,House1,Buidling2,Street3,12345,City,State,Staff
+5,123,a,b,c,1,2,3,12345,123,123,Staff
+6,123,A,B,C,No 1,Jalan 2,Taman 3,12345,Kajang,Selangor,Staff
+7,123,FN,MN,LN,1,2,3,12345,5,6,Staff
+8,123,ada,asdas,wdasd,sadasd,sdfasd,sdfdss,43234,sadasdas,dfsfdsfd,Staff
+9,123,9f,9f,9f,9f,9f,9f,99999,9f,9f,Administrator
+10,123,10f,10f,10f,10f,10f,10f,101010,10f,10f,Staff
+11,123,11,11,11,11,11,11,11,11,11,Staff
