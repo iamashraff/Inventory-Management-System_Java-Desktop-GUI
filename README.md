@@ -1,6 +1,6 @@
-# inventory-management-system
-Inventory Management System (Java)
-by using TextFile
+# Inventory Management System (Java)
+This project purpose is to apply Object-oriented programming concept throughout the project development.
+The data is stored using text file (TXT)
 
 <br> Universiti Kuala Lumpur - Semester January 2021 <br>
 Object Oriented Programming - Mini Project <br>
