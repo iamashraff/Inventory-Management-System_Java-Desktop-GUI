@@ -67,7 +67,7 @@ Technology :
 
 ![alt text](https://i.imgur.com/uYJSA8E.jpg)
 
-8. Manage Staff
+8. Manage Staff<br>
 8.1 View Staff
 
 ![alt text](https://i.imgur.com/4zyUoUk.png)
