@@ -2,7 +2,7 @@
 # Inventory Management System (Java Swing GUI)
 Inventory Management System (IMS) is to keep record of goods and product store in the business warehouse or store. In this project, the IMS is to keep various types of electronic product record. 
 
-This project consists of **Admin** and **Staff**. <br>
+This project consists of **Admin** and **Staff** roles. <br>
 **Admin and Staff:** Manage the products such as add, edit and delete.<br>
 **Admin:** Manage list of staff and other admin account such as managing the roles, password, name and address.<br>
 
