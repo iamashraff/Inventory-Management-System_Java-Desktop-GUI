@@ -20,8 +20,8 @@ Technology :
 - Java Swing GUI
 
 ## License
-The source code has been published on GitHub Repository under MIT License.
-Please visit LICENSE file to read the details about the license.
+The source code has been published on GitHub Repository under  _MIT License_.  <br>
+Please visit  `LICENSE`  file to read the details about the license.
 
 ## UML Class Diagram
 ![alt text](https://i.imgur.com/8dGUWoc.png)
