@@ -1,33 +1,87 @@
-# Inventory Management System (Java)
-This project purpose is to apply Object-oriented programming concept throughout the project development.
-The data is stored using text file (TXT)
 
-<br> Universiti Kuala Lumpur - Semester January 2021 <br>
-Object Oriented Programming - Mini Project <br>
+# Inventory Management System (Java Swing GUI)
+Inventory Management System (IMS) is to keep record of goods and product store in the business warehouse or store. In this project, the IMS is to keep various types of electronic product record. 
 
-###### UML Class Diagram
+This project consists of **Admin** and **Staff**. <br>
+**Admin and Staff:** Manage the products such as add, edit and delete.<br>
+**Admin:** Manage list of staff and other admin account such as managing the roles, password, name and address.<br>
+
+The project was developed for Object Oriented Programming - ISB16003 course at the Universiti Kuala Lumpur.
+It is focusing on applying object-oriented programming concept such as *inheritance and composition* as shown in the class diagram below. However, the data is stored using text file and no RDBMS software was used for this project. All data will be saved to directory `C:\`. Please copy `Export.txt`, `Product.txt` and `Staff.txt` to `C:\`.
+
+## About the project
+
+**This is a Java desktop application.**
+
+Languages :
+-   Java
+
+Technology :
+- Java Swing GUI
+
+
+## UML Class Diagram
 ![alt text](https://i.imgur.com/8dGUWoc.png)
 
-###### Program Flowchart
+## Flowchart
 ![alt text](https://i.imgur.com/hgVL0Kc.png)
 
-###### Storyboard Sketch
-![alt text](https://i.imgur.com/OlWYUJw.png)
-![alt text](https://i.imgur.com/ysrATRy.png)
+## Storyboard
+![enter image description here](https://raw.githubusercontent.com/iamashraff/inventory-management-system/main/img/Storyboard.jpg)
 
-###### Screenshot
+![enter image description here](https://raw.githubusercontent.com/iamashraff/inventory-management-system/main/img/Storyboard2.jpg)
+
+## User Interface
+
+1. Splash Screen
+
 ![alt text](https://i.imgur.com/FnpaAk6.jpg)
+
+2. Login Form
+
 ![alt text](https://i.imgur.com/mLMN6KJ.jpg)
+
+3. Main Menu
+
 ![alt text](https://i.imgur.com/IVRvRpI.jpg)
+
+4. Add Product Form
+
 ![alt text](https://i.imgur.com/NLG613H.jpg)
+
+4.1 Add Product by selecting different categories
+
+![enter image description here](https://raw.githubusercontent.com/iamashraff/inventory-management-system/main/img/AddProduct_List.jpg)
+
+
+5. Edit Product Form
+
 ![alt text](https://i.imgur.com/4rirl2m.jpg)
+
+6. Remove Product Form
+
 ![alt text](https://i.imgur.com/SeetiET.jpg)
-![alt text](https://i.imgur.com/SeetiET.jpg)
-![alt text](https://i.imgur.com/WLg4U4Y.png)
+
+
+7. Search Product
+
 ![alt text](https://i.imgur.com/uYJSA8E.jpg)
+
+8. Manage Staff
+8.1 View Staff
+
 ![alt text](https://i.imgur.com/4zyUoUk.png)
+
+8.2 Create Staff Account
+
 ![alt text](https://i.imgur.com/Rx5x8vL.png)
+
+8.3 Edit Staff Account
+
 ![alt text](https://i.imgur.com/iKLXWB8.png)
 
-All data will be saved to C:\.
-Please copy Export.txt, Product.txt and Staff.txt to C:\.
+## Credit
+
+**Developed by :**  
+_Muhamad Ashraff Othman_  
+© 2020 All rights reserved.
